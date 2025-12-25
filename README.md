@@ -68,7 +68,7 @@ All materials in this repository were gathered, organized, and documented by me 
 
 This collection includes **comprehensive reference materials** covering all major topics:
 
-| # | Resource | Description |
+| # | Resource | Focus Area |
 |:-:|:---|:---|
 | 1 | [MIS Techmax](Reference%20Books/MIS%20Techmax.pdf) | Comprehensive textbook notes |
 | 2 | [MIS Modules 1-4](Reference%20Books/MIS_1-4.pdf) | Foundations of Information Systems |
