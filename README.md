@@ -46,12 +46,12 @@ The curriculum encompasses several key domains in Management Information Systems
 
 This repository represents a curated collection of study materials, reference books, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
 
-As a computer engineer, understanding the strategic role of information systems is crucial for aligning technology with business goals. This repository serves as my intellectual reference point.
+As a computer engineer, understanding the strategic role of information systems is crucial for aligning technology with business goals. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
 
 **Why this repository exists:**
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
-- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of MIS concepts.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental concepts.
 - **Academic Documentation**: To authentically document my learning journey through MIS.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
