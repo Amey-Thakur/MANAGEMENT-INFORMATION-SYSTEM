@@ -153,7 +153,7 @@ Previous year university question papers:
 > Complete Final Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for MIS.
 
 > [!IMPORTANT]
-> Always verify the latest syllabus details with the official University of Mumbai website.
+> Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
 
 ---
 
