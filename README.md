@@ -111,9 +111,9 @@ Internal assessment evaluations conducted during the course:
 
 Final semester examination submission:
 
-| # | Resource | Description |
-|:-:|:---|:---|
-| 1 | [**Semester Exam Answer Sheet**](Semester%20Exam/AMEY_B-50_7278000_MIS.pdf) | MIS Semester Exam Submission |
+| # | Resource | Description | Date |
+|:-:|:---|:---|:-:|
+| 1 | [Answer Sheet](Semester%20Exam/AMEY_B-50_7278000_MIS.pdf) | MIS Semester Exam Answer Sheet | December 01, 2021 |
 
 ---
 
