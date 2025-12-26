@@ -165,10 +165,10 @@ Previous year university question papers:
 This repository is openly shared to support learning and knowledge exchange across the academic community.
 
 **For Students**  
-Use these resources as reference materials for understanding management information systems, enterprise applications, and preparing for examinations. All content is organized for self-paced learning.
+Use these resources as reference materials for understanding Management Information Systems, enterprise applications, and preparing for examinations. All content is organized for self-paced learning.
 
 **For Educators**  
-These materials may serve as curriculum references or supplementary teaching resources. Attribution is appreciated when utilizing content.
+These materials may serve as curriculum references, case studies, or supplementary teaching resources. Attribution is appreciated when utilizing content.
 
 **For Researchers**  
 The documentation and organization may provide insights into academic resource curation and educational content structuring.
