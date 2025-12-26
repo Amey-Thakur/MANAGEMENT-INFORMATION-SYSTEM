@@ -86,11 +86,18 @@ This collection includes **comprehensive reference materials** covering all majo
 
 Internal assessment evaluations conducted during the course:
 
+### IAT - 1 - September 06, 2021
+
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [**IAT - 1 Answer Sheet**](Internal%20Assessment%20Test/AMEY_B-50_MIS_IAT-1.pdf) | MIS Internal Assessment Test 1 Submission |
-| 2 | [**IAT - 2 Answer Sheet**](Internal%20Assessment%20Test/AMEY_B-50_MIS_IAT-2.pdf) | MIS Internal Assessment Test 2 Submission |
-| 3 | [**IAT - 2 MCQs**](Internal%20Assessment%20Test/MIS%20IAT%20-%202.pdf) | Multiple Choice Questions |
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_MIS_IAT-1.pdf) | MIS Internal Assessment Test 1 Answer Sheet |
+
+### IAT - 2 - October 13, 2021
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_MIS_IAT-2.pdf) | MIS Internal Assessment Test 2 Answer Sheet |
+| 2 | [MCQs](Internal%20Assessment%20Test/MIS%20IAT%20-%202.pdf) | Multiple Choice Questions |
 
 ---
 
