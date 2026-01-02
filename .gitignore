@@ -1,25 +1,21 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Management Information Systems - Academic Repository
+# Specialized .gitignore for business computing and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
-*.code-workspace
-
-# JetBrains
 .idea/
+*.swp
+*.swo
+*~
 *.iml
+*.code-workspace
 
 # Office Temporary Files
 ~$*.doc
@@ -29,7 +25,7 @@ $RECYCLE.BIN/
 ~$*.xls
 ~$*.xlsx
 
-# LaTeX (if used)
+# LaTeX / Document Artifacts
 *.aux
 *.bbl
 *.blg
@@ -39,6 +35,8 @@ $RECYCLE.BIN/
 *.lot
 *.out
 *.toc
+*.log
+*.synctex.gz
 
 # Archives
 *.zip
@@ -46,5 +44,13 @@ $RECYCLE.BIN/
 *.rar
 *.7z
 
-# Git
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
