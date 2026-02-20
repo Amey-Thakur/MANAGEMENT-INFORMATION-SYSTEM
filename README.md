@@ -52,7 +52,7 @@ As a computer engineer, understanding the strategic role of information systems 
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental concepts.
-- **Academic Documentation**: To authentically document my learning journey through MIS.
+- **Academic Documentation**: To authentically document my learning journey through Management Information System.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 > [!NOTE]
