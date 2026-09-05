@@ -1,0 +1,36 @@
+# Management Information System
+
+> ILO7013: Management Information System [MIS] | BE Semester VII | Computer
+> Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Fourth Year, Semester VII
+Course code: ILO7013
+Licence: CC BY 4.0, attribution required
+Repository created: 13 February 2022
+Work dated: 19 January 2022
+
+## What is in this repository
+
+- Internal Assessment Test, 3 files
+- Question Papers, 32 files
+- Reference Books, 9 files
+- Semester Exam, 1 file
+- Syllabus, 2 files
+
+## Subject terms
+
+business-intelligence, computer-engineering, computer-science,
+decision-support-systems, e-business, engineering,
+enterprise-resource-planning, erp-application, information-security,
+information-system, management-information-system, scm, study-notes,
+textbooks, university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/MANAGEMENT-INFORMATION-SYSTEM
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
